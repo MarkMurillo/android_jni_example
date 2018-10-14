@@ -8,4 +8,4 @@ Example includes concepts such as:
  - Passing/handling different Java primitives in C
  - Handling different C primitives passed to Java
 
-Note: This does not use cmake. Please see my other project for kotlin/cmake combo.
+**Note: This does not use cmake. Please see my other project https://github.com/MarkMurillo/android_jni_swig_example for a more modern build process.**
