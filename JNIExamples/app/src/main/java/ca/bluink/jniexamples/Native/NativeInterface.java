@@ -1,15 +1,9 @@
 package ca.bluink.jniexamples.Native;
 
 /*************************************************************************
+ * NativeInterface.java
  *
- * Proprietary Information of Bluink Ltd.
- * Copyright (c) 2018-01-04, all rights reserved
- * Bluink Ltd.
- *
- * NOTICE:  The information contained in this file is, and remains
- * the property of Bluink Ltd.  Dissemination of this information
- * or reproduction of this material is strictly forbidden unless prior
- * written permission is obtained from Bluink Ltd.
+ * Small class to demonstrate interfacing between Java and C using JNI.
  *
  * Author: Murillo
  ************************************************************************/
