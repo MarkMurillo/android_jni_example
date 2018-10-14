@@ -7,3 +7,5 @@ Example includes concepts such as:
  - Calling Java functions from C
  - Passing/handling different Java primitives in C
  - Handling different C primitives passed to Java
+
+Note: This does not use cmake. Please see my other project for kotlin/cmake combo.
